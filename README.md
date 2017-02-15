@@ -51,8 +51,9 @@ Web微信协议参考资料：
 **wxBot** 用到了Python **requests** , **pypng** , **Pillow** 以及 **pyqrcode** 库。
 
 使用之前需要所依赖的库:
-
+在树莓派上多运行一步骤
 ```bash
+apt-get install python-pip
 pip install requests
 pip install pyqrcode
 pip install pypng
