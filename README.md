@@ -58,6 +58,7 @@ pip install requests
 pip install pyqrcode
 pip install pypng
 pip install Pillow 这条用 apt-get install python-PIL 代替
+git clone https://github.com/liuwons/wxBot.git 克隆
 ```
 
 ## 2 快速开发
