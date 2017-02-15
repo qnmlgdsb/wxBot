@@ -57,7 +57,7 @@ apt-get install python-pip
 pip install requests
 pip install pyqrcode
 pip install pypng
-pip install Pillow
+pip install Pillow 这条用 apt-get install python-PIL 代替
 ```
 
 ## 2 快速开发
